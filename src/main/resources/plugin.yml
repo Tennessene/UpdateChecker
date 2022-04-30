@@ -1,0 +1,9 @@
+name: UpdateChecker
+version: '${project.version}'
+main: me.acclashcorporation.updatechecker.UpdateChecker
+api-version: 1.18
+authors: [ Anston_Sorensen ]
+description: A plugin that checks the server software version and installs a newer version if needed.
+commands:
+  check:
+    description: Check if your server software needs an update on the spot.

@@ -1,0 +1,5 @@
+#WARNING: This program deletes all JARs in the server software folder in order to update the software. It also only works if you
+#keep the original name of the server jar.
+#Enter the file you use to start the server. Eg. "StartServer.bat" or for Linux Eg. "StartServer.sh". If none is entered UpdateChecker
+#won't be activated if you use Paper until you enter one.
+Start script: ''
